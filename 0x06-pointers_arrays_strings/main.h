@@ -1,5 +1,12 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
+
+/**
+ * File: holberton.h
+ * Desc: Header file containing prototypes for all functions
+ *       used in the 0x06 directory.
+ */
+
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
@@ -11,4 +18,5 @@ char *cap_string(char *);
 char *leet(char *);
 char *rot13(char *);
 void print_number(int n);
+
 #endif /* _MAIN_H_ */
