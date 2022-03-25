@@ -2,7 +2,7 @@
 #define _MAIN_H_
 
 /**
- * File: holberton.h
+ * File: main.h
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x06 directory.
  */
