@@ -7,7 +7,6 @@
  *       used in the 0x07-Even more pointers_arrays_strings directory.
  */
 
-#include <stdlib.h>
 #include <stdio.h>
 
 int _putchar(char c);
